@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Image Classification**
  
- 🌱 I’m currently learning **Typescript, NextJs, Springboot **
+ 🌱 I’m currently learning **Typescript, NextJs, GoLang **
 
  💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/AbbasZaidi11/AbbasZaidi11/issues)**
 
