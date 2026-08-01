@@ -52,14 +52,17 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h3><code>avi@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Avi Vashishta — ASCII portrait" /></td>
+<td valign="top"><img src="./wordmark.svg" width="490" alt="AVI — 3D ASCII wordmark" /></td>
+</tr>
+</table>
+
 <br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=AbbasZaidi11&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=AbbasZaidi11&theme=react&show_icons=true&hide_border=true&count_private=true" alt="readme stats" />
- <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasZaidi11&theme=react&show_icons=true&hide_border=true&layout=compact" />
-</div>
+<br>
 
 <br/><br/>
 <hr/>
