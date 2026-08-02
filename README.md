@@ -49,27 +49,12 @@
 <table>
 <tr>
 <td valign="top">
-  <img src="./abbas_ascii_portrait.svg" width="420" alt="Abbas Zaidi — ASCII portrait" />
+  <img src="./abbas_ascii_portrait.svg" width="400" alt="Abbas Zaidi — ASCII portrait" />
 </td>
-<td valign="top" align="left" width="490">
-  <br/><br/>
-  <img src="./wordmark.svg" width="480" alt="ABBAS wordmark" /><br/><br/><code>abbas@github:~$ cat info.txt</code><br/><br/>
-  <b>Name:</b> Abbas Raza Zaidi<br/>
-  <b>Role:</b> Systems Engineer @ TCS<br/>
-  <b>Stack:</b> Java · Spring Boot · PostgreSQL · Redis · Kafka<br/>
-  <b>Building:</b> Scalable backend systems<br/>
-  <b>Currently:</b> Going deep on backend internals and distributed systems<br/><br/>
-  <a href="mailto:razazaidiabbas@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/abbas-raza-zaidi-199531223" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://AbbasZaidi11.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
+<td valign="top">
+  <img src="./wordmark.svg" width="480" alt="ABBAS wordmark" />
+  <br/>
+  <img src="./info-card.svg" width="480" alt="Abbas info card" />
 </td>
 </tr>
 </table>
