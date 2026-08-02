@@ -51,9 +51,9 @@
 <td valign="top">
   <img src="./abbas_ascii_portrait.svg" width="420" alt="Abbas Zaidi — ASCII portrait" />
 </td>
-<td valign="top" align="left">
+<td valign="top" align="left" width="490">
   <br/><br/>
-  <code>abbas@github:~$ cat info.txt</code><br/><br/>
+  <img src="./wordmark.svg" width="480" alt="ABBAS wordmark" /><br/><br/><code>abbas@github:~$ cat info.txt</code><br/><br/>
   <b>Name:</b> Abbas Raza Zaidi<br/>
   <b>Role:</b> Systems Engineer @ TCS<br/>
   <b>Stack:</b> Java · Spring Boot · PostgreSQL · Redis · Kafka<br/>
