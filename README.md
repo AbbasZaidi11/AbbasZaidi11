@@ -42,15 +42,35 @@
   <br/><br/><br/>
 </div>
 <hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=AbbasZaidi11&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=AbbasZaidi11&theme=react&show_icons=true&hide_border=true&count_private=true" alt="readme stats" />
- <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasZaidi11&theme=react&show_icons=true&hide_border=true&layout=compact" />
+<hr/>
+<div align="center">
+<h3><code>abbas@github ~ $ whoami</code></h3>
+<table>
+<tr>
+<td valign="top">
+  <img src="./abbas-ascii.svg" width="420" alt="Abbas Zaidi — ASCII portrait" />
+</td>
+<td valign="top" align="left" style="padding-left:20px">
+  <br/><br/>
+  <code>abbas@github:~$ cat info.txt</code><br/><br/>
+  <b>Name:</b> Abbas Raza Zaidi<br/>
+  <b>Role:</b> Systems Engineer @ TCS<br/>
+  <b>Stack:</b> Java · Spring Boot · PostgreSQL · Redis · Kafka<br/>
+  <b>Building:</b> Scalable backend systems<br/>
+  <b>Goal:</b> Product company · Backend SDE<br/><br/>
+  <a href="mailto:razazaidiabbas@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a><br/><br/>
+  <a href="https://www.linkedin.com/in/abbas-raza-zaidi-199531223" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a><br/><br/>
+  <a href="https://AbbasZaidi11.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+</td>
+</tr>
+</table>
 </div>
-<br/><br/>
 <hr/>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
